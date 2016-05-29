@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test.AutoTests" duration-ms="484922" started-at="2016-05-26T07:14:18Z" finished-at="2016-05-26T07:22:23Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="484922" started-at="2016-05-26T07:14:18Z" finished-at="2016-05-26T07:22:23Z">
+      <class name="Test.AutoTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@3d24753a]" name="setUp" is-config="true" duration-ms="4282" started-at="2016-05-26T09:14:18Z" description="Init Browser" finished-at="2016-05-26T09:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="changePassword()[pri:0, instance:Test.AutoTests@3d24753a]" name="changePassword" duration-ms="133310" started-at="2016-05-26T09:14:22Z" description="changePassword myfish.by" finished-at="2016-05-26T09:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassword -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@3d24753a]" name="setUp" is-config="true" duration-ms="3125" started-at="2016-05-26T09:16:35Z" description="Init Browser" finished-at="2016-05-26T09:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logInMyFish()[pri:0, instance:Test.AutoTests@3d24753a]" name="logInMyFish" duration-ms="33922" started-at="2016-05-26T09:16:38Z" description="Login to myfish.by" finished-at="2016-05-26T09:17:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInMyFish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@3d24753a]" name="setUp" is-config="true" duration-ms="2849" started-at="2016-05-26T09:17:12Z" description="Init Browser" finished-at="2016-05-26T09:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logOutMyFish()[pri:0, instance:Test.AutoTests@3d24753a]" name="logOutMyFish" duration-ms="127431" started-at="2016-05-26T09:17:15Z" description="LogOut to myfish.by" finished-at="2016-05-26T09:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutMyFish -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@3d24753a]" name="setUp" is-config="true" duration-ms="3108" started-at="2016-05-26T09:19:23Z" description="Init Browser" finished-at="2016-05-26T09:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="search()[pri:0, instance:Test.AutoTests@3d24753a]" name="search" duration-ms="35775" started-at="2016-05-26T09:19:26Z" description="search myfish.by" finished-at="2016-05-26T09:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.AutoTests@3d24753a]" name="setUp" is-config="true" duration-ms="4387" started-at="2016-05-26T09:20:01Z" description="Init Browser" finished-at="2016-05-26T09:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="subscribe()[pri:0, instance:Test.AutoTests@3d24753a]" name="subscribe" duration-ms="136712" started-at="2016-05-26T09:20:06Z" description="subscribe myfish.by" finished-at="2016-05-26T09:22:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscribe -->
+      </class> <!-- Test.AutoTests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Test.AutoTests -->
+</testng-results>
